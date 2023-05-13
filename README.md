@@ -5,7 +5,7 @@ Even a hawk is an eagle among crows.
 
 [![Morrison's stats](https://github-readme-stats.vercel.app/api?username=NicholasMorrison&theme=transparent&count_private=true&show_icons=true&rank_icon=default&text_color=4A7150&title_color=71B287&ring_color=71B287&icon_color=71B287&border_color=71B287&text_bold=false)](https://github.com/NicholasMorrison/github-readme-stats)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasMorrison&langs_count=6&layout=donut&count_private=true&size_weight=0.5&count_weight=0.5&theme=transparent&text_color=0472D9&title_color=79DAFF&ring_color=79DAFF&icon_color=79DAFF&border_color=79DAFF&text_bold=false)](https://github.com/NicholasMorrison/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasMorrison&langs_count=6&layout=donut&count_private=true&size_weight=0.5&count_weight=0.5&theme=transparent&text_color=0472D9&title_color=79DAFF&ring_color=79DAFF&icon_color=79DAFF&border_color=79DAFF&text_bold=false&hide=makefile)](https://github.com/NicholasMorrison/github-readme-stats)
 <!--
 **NicholasMorrison/NicholasMorrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
