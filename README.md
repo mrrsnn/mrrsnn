@@ -2,7 +2,7 @@
 $ fortune -s
 Even a hawk is an eagle among crows.
 ```
-
+<!--
 [![Morrison's stats](https://stats-card-sable.vercel.app/api?username=mrrsnn&theme=transparent&all_commits=true&count_private=true&show_icons=true&rank_icon=default&text_color=4A7150&title_color=71B287&ring_color=71B287&icon_color=71B287&border_color=71B287&text_bold=false)](https://www.youtube.com/watch?v=R8OWNspU_yE)
 
 <!--
