@@ -2,11 +2,8 @@
 $ fortune -s
 Even a hawk is an eagle among crows.
 ```
-
 <!--
 [![Morrison's stats](https://stats-card-sable.vercel.app/api?username=mrrsnn&theme=transparent&all_commits=true&count_private=true&show_icons=true&rank_icon=default&text_color=4A7150&title_color=71B287&ring_color=71B287&icon_color=71B287&border_color=71B287&text_bold=false)](https://www.youtube.com/watch?v=R8OWNspU_yE)
--->
-
 
 [![Top languages](https://stats-card-sable.vercel.app/api/top-langs?username=mrrsnn&langs_count=6&layout=donut&count_private=true&size_weight=0.5&count_weight=0.5&theme=transparent&text_color=0472D9&title_color=79DAFF&ring_color=79DAFF&icon_color=79DAFF&border_color=79DAFF&text_bold=false&hide=makefile)](https://www.youtube.com/watch?v=R8OWNspU_yE)
 <!--
