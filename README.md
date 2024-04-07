@@ -1,10 +1,9 @@
 
+<!--
 ```
 $ fortune -s
 Even a hawk is an eagle among crows.
 ```
-
-<!--
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=mrrsnn&langs_count=6&layout=compact&count_private=false&size_weight=0.5&count_weight=0.5&theme=dracula&text_color=B64432&title_color=D66855&ring_color=D66855&icon_color=B64432&border_color=B64432&text_bold=false&hide=makefile)](https://www.youtube.com/watch?v=R8OWNspU_yE)
 
